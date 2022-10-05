@@ -177,3 +177,17 @@ for county, voters in counties_dict.items():
     print(f"{county} county has {voters} registered voters.")
     
     
+
+#class JM:
+
+actor_info={
+    'name':'angelina jolie',
+    'genre':'action',
+    'age':40,
+    'married':True,
+    'movies':['malefica','eternals']
+}
+
+print(actor_info['name'])
+print(actor_info['movies'][1])
+
